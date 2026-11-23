@@ -1,0 +1,12 @@
+{
+  "verified_xml_articles": 345,
+  "original_prompts": 1762,
+  "original_annotation_rows": 3618,
+  "unique_passages": 3542,
+  "qa_examples": 961,
+  "dialogues": 801,
+  "dataset_bytes": {
+    "PMC_Question_Answers_5MB.jsonl": 5000000,
+    "PMC_Dialogues_5MB.jsonl": 5000000
+  }
+}
